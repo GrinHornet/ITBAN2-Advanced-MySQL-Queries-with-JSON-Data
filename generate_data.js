@@ -43,10 +43,11 @@ for (let i = 0; i < productCount; i++) {
   const name = faker.commerce.productName();
   const description = faker.commerce.productDescription();
   const attributes = {
-    material: faker.commerce.productMaterial(),
     color: faker.commerce.color(),
+    size: faker.random.arrayElement(['Small', 'Medium', 'Large']), // Adding size attribute
     price: faker.commerce.price(),
   };
+
 
   const sql = `INSERT INTO products (name, description, attributes) VALUES (?, ?, ?)`;
 
