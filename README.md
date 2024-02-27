@@ -86,13 +86,16 @@ ordered and their quantities.
 • Update the price of a specific product stored as JSON attribute.
 
 The original price of the product id 1234.
+
 ![image](https://github.com/GrinHornet/ITBAN2-Advanced-MySQL-Queries-with-JSON-Data/assets/125188016/1a4e35c9-bfd7-4880-8f4a-7534422204ca)
 
 The specific query to update the specific price of product id 1234.
+
 ![image](https://github.com/GrinHornet/ITBAN2-Advanced-MySQL-Queries-with-JSON-Data/assets/125188016/ad3f55d8-454b-4582-93f9-aff83b933163)
 
 
 Updated Price of the product id number 1234.
+
 ![image](https://github.com/GrinHornet/ITBAN2-Advanced-MySQL-Queries-with-JSON-Data/assets/125188016/19012fc2-e391-4eb5-89ed-163fe21c70af)
 
  
