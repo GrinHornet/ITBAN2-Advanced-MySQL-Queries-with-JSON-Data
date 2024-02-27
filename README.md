@@ -54,10 +54,12 @@ Determine the total quantity of each product ordered.
 
 • Find the top 5 best-selling products based on total quantity sold. 
 
+![image](https://github.com/GrinHornet/ITBAN2-Advanced-MySQL-Queries-with-JSON-Data/assets/125188016/69383e9e-e5d7-4337-8035-0bbd1d7cddfa)
 
 • Identify the average price of products from a specific brand. 
 
-![image](https://github.com/GrinHornet/ITBAN2-Advanced-MySQL-Queries-with-JSON-Data/assets/125188016/69383e9e-e5d7-4337-8035-0bbd1d7cddfa)
+![Uploading image.png…]()
+
 
 
 ###### Nested JSON Queries: 
