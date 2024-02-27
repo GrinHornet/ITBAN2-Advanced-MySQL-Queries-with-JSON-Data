@@ -1,4 +1,4 @@
-![image](https://github.com/GrinHornet/ITBAN2-Advanced-MySQL-Queries-with-JSON-Data/assets/125188016/14550e9c-f83d-44a5-94b3-80e5820b53a7)# ITBAN2-Advanced-MySQL-Queries-with-JSON-Data
+# ITBAN2-Advanced-MySQL-Queries-with-JSON-Data
 Set up 'e_commerce' MySQL DB, designed tables for products, orders, order details, and customers. Populated with sample data and documented queries for retrieving product info, orders, filtering, aggregates, JSON operations, and table joins. Included SQL dumps, queries, and screenshots on GitHub.
 
 #### By H. Torlao Jr. & D. Dano Jr.
